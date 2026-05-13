@@ -22,7 +22,7 @@ This topic is important because mental wellbeing affects relationships, educatio
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-How is it used?
+## How is it used?
 
 User interacts with the AI through mobile app or chatbot
 
@@ -52,7 +52,7 @@ Example features:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Data Sources & AI Methods
+## Data Sources & AI Methods
 The project could use:
 . user mood logs
 . conversations text
@@ -73,7 +73,7 @@ Possible tools and technologies:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Challenges
+## Challenges
 This project does not replace professional mental health treatment.
 Limitation include
 . AI can misunderstood emotions
@@ -90,7 +90,7 @@ Human threapists and doctors are still essential.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Future improvements include:
+## Future improvements include:
 . multilingual emotional support
 . voice emotion recognition
 . wearable device integration
@@ -107,7 +107,7 @@ The project could eventually become a safe and accessible support tool for peopl
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Acknowledgements
+## Acknowledgements
 . Inspired from Apple watch & mental health awareness initiatives
 . AI tools & libraries from TensorFlow
 . Programming support from Python
